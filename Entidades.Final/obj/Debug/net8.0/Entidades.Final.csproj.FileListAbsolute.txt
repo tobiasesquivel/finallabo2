@@ -1,0 +1,13 @@
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\bin\Debug\net8.0\Entidades.Final.deps.json
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\bin\Debug\net8.0\Entidades.Final.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\bin\Debug\net8.0\Entidades.Final.pdb
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.AssemblyInfoInputs.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.AssemblyInfo.cs
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\refint\Entidades.Final.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.pdb
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\ref\Entidades.Final.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\Entidades.Final\obj\Debug\net8.0\Entidades.Final.sourcelink.json

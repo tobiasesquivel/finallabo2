@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Esquivel.Tobias\\Esquivel.Tobias.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\Entidades.Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\Entidades.Final.csproj",
+        "projectName": "Entidades.Final",
+        "projectPath": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\Entidades.Final.csproj",
+        "packagesPath": "C:\\Users\\tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Esquivel.Tobias\\Esquivel.Tobias.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Esquivel.Tobias\\Esquivel.Tobias.csproj",
+        "projectName": "Esquivel.Tobias",
+        "projectPath": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Esquivel.Tobias\\Esquivel.Tobias.csproj",
+        "packagesPath": "C:\\Users\\tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Esquivel.Tobias\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\Entidades.Final.csproj": {
+                "projectPath": "C:\\Users\\tobia\\OneDrive\\Desktop\\Programacion\\PracticaFinal\\Esquivel.Tobias\\Entidades.Final\\Entidades.Final.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\bin\Debug\net8.0\PracticaEventos.exe
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\bin\Debug\net8.0\PracticaEventos.deps.json
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\bin\Debug\net8.0\PracticaEventos.runtimeconfig.json
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\bin\Debug\net8.0\PracticaEventos.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\bin\Debug\net8.0\PracticaEventos.pdb
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.AssemblyInfoInputs.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.AssemblyInfo.cs
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.sourcelink.json
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\refint\PracticaEventos.dll
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.pdb
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\PracticaEventos.genruntimeconfig.cache
+C:\Users\tobia\OneDrive\Desktop\Programacion\PracticaFinal\Esquivel.Tobias\PracticaEventos\obj\Debug\net8.0\ref\PracticaEventos.dll
